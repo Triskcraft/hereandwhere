@@ -1,0 +1,12 @@
+{
+    "id": "hereandwhere",
+    "version": "1.0.0",
+    "name": "Here&Where",
+    "description": "Plugin para imprimir las coords en el chat",
+    "author": "TheVugx",
+    "link": "https://github.com/Triskcraft/hereandwhere",
+    "dependencies": {
+        "mcdreforged": "2.12.3"  
+    },
+    "entrypoint": "hereandwhere"
+}
